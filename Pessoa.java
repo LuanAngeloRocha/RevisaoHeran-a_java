@@ -23,6 +23,6 @@ public class Pessoa{
         this.telefone=telefone;
     }
 
-    
+    //Temos 7 metodos nessa classe, sendo 1 oculto, o método construtor//
 
 }
